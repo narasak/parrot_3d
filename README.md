@@ -4,8 +4,8 @@
 ### Introduction
 The Parrot 3D is an open source 3D (fdm) printer with more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and reduce plastic parts for extreme precision frame.
 
-### Why another conversion build?
-Here are the features that explain why I decided to create another printer upgrade.
+### Why another build?
+Here are the features that explain why I decided to create another printer.
 
 * 3030 Aluminium Extrusions it strong and rigid frame with easy to build
 * Single linear rail on both X-Axis and Y-Axis it provided easier setup, alignment, silent and supper smooth
@@ -28,7 +28,7 @@ Parrot 3D (TH)
  
 [parrot3d.com](https://www.parrot3d.com)
 
-### Support my work
+### Support our work
 
 The Parrot 3D project is made possible thanks supporters, you can participate via 
 
