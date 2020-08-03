@@ -12,7 +12,7 @@ Here are the features that explain why I decided to create another printer.
 * Use more aluminum, more carbon fiber and less printed parts (3D printed parts can crack and are less reliable)
 
 ![Parrot 3D Y-Axis](https://github.com/narasak/parrot_3d/blob/master/img/Parrot_3D_Y-Axis_Small.jpg?raw=true)
-* Open source by providing STL and DWG Drawing (For STEP files we will provide soon)
+* Open source by providing STL and DWG Drawing (For STEP files we will provide in the future)
 
 ### Community
 Here are the places were the Parrot 3D project is the most active. Do not hesitate to ask if you have a question :
