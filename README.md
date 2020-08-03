@@ -1,5 +1,5 @@
 # Parrot 3D
-![Image description](https://github.com/narasak/parrot_3d/blob/master/img/Parrot_3D_Basic_kit.jpg?raw=true)
+![Parrot 3D Basic Kit](https://github.com/narasak/parrot_3d/blob/master/img/Parrot_3D_Basic_Kit.jpg?raw=true)
 
 ### Introduction
 The Parrot 3D is an open source 3D (fdm) printer with more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and reduce plastic parts for extreme precision frame.
@@ -10,6 +10,8 @@ Here are the features that explain why I decided to create another printer upgra
 * 3030 Aluminium Extrusions it strong and rigid frame with easy to build
 * Single linear rail on both X-Axis and Y-Axis it provided easier setup, alignment, silent and supper smooth
 * Use more aluminum, more carbon fiber and less printed parts (3D printed parts can crack and are less reliable)
+
+![Parrot 3D Y-Axis](https://github.com/narasak/parrot_3d/blob/master/img/Parrot_3D_Y-Axis_Small.jpg?raw=true)
 * Open source by providing STL and DWG Drawing (For STEP files we will provide soon)
 
 ### Community
