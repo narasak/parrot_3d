@@ -80,7 +80,7 @@
 | Stepper Motor<br>NEMA 17<br>1.8° Step Angle<br>Up to 46mm body<br>1A Phase<br>> 0.45Nm Holding Torque | 2 | 1x for X-Axis.<br> 1x for Y-Axis | [Parrot 3D](https://www.parrot3d.com) |
 | Stepper Motor<br>Integrated 321mm Lead Screw<br>1.8° Step Angle<br>Up to 34mm body<br>1A Phase | 2 | 2x for Z-Axis | [Parrot 3D](https://www.parrot3d.com) |
 | MK52 Heated Bed 24V | 1 | | [Parrot 3D](https://www.parrot3d.com) |
-| Bondtech Prusa Extruder,<br>E3d Hermera Extruder,<br>E3D V6 with Bear Extruder | 1 | | [Parrot 3D](https://www.parrot3d.com) |
+| Bondtech Prusa Extruder,<br>E3d Hermera Extruder,<br>E3D V6 with Bear Extruder | 1 | | [Parrot 3D](https://www.parrot3d.com),<br>[Siam RepRap](https://www.siamreprap.com) |
 | Mean Well LRS350-24V | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | BLTouch | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | Blowers Fan 52x15mm 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
