@@ -14,6 +14,7 @@
 | Linear Rail MGW12C-1R-295 | 1 | 1x for X-Axis | [Parrot 3D](https://www.parrot3d.com) |
 | Linear Rail MGN15C-1R-315 | 2 | 2x for Z-Axis | [Parrot 3D](https://www.parrot3d.com) |
 | Rubber Feet | 4 | | [Parrot 3D](https://www.parrot3d.com) |
+| Zip ties 2.5x100mm | 20 | | [Parrot 3D](https://www.parrot3d.com) |
 
 ##### Fasteners (Hex Socket Head Cap Screws)
 
@@ -85,5 +86,35 @@
 | BLTouch | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | Blowers Fan 52x15mm 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | Fan 40x10 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
+
+### Printed Parts
+| Part     | Quantity |
+|----------|:------:|
+| X-Belt Holder | 1 |
+| Cable Holder Base | 1 |
+| Cable Holder Stand | 1 |
+| Cable Holder | 1 |
+| Lead Screw Holder | 2 |
+| X-Axis Motor Cover | 1 |
+| Heated Bed Cable Lower Cover | 1 |
+| Heated Bed Cable Upper Cover | 1 |
+| Y-Axis Belt Holder | 1 |
+| Y-Axis Motor Cover | 1 |
+| Cable Lock | 8 |
+| End Cap | 6 |
+| Rubber Feet Base | 4 |
+| Wiring Cable Lock | 4 |
+| Z-Axis Motor Mount | 2 |
+| Cable Holder Long | 3 |
+| Cable Holder Medium | 1 |
+| Cable Holder Short | 3 |
+| SKR 1.4 Base Box | 1 |
+| SKR 1.4 Cover Box | 1 |
+| MW LRS350-24V Box | 1 |
+| MW LRS350-24V Door | 1 |
+| MW LRS350-24V Switch | 1 |
+| LCD Cover Bracket Left | 1 |
+| LCD Cover Bracket Right | 1 |
+| LCD Cover | 1 |
 
 I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, Please don't use metal thread to plastic).
