@@ -1,4 +1,4 @@
-# Parrot 3D (In-progress)
+# Parrot 3D
 
 ## Bill of Materials
 
@@ -15,6 +15,8 @@
 | Linear Rail MGN15C-1R-315 | 2 | 2x for Z-Axis | [Parrot 3D](https://www.parrot3d.com) |
 | Rubber Feet | 4 | | [Parrot 3D](https://www.parrot3d.com) |
 | Zip ties 2.5x100mm | 20 | | [Parrot 3D](https://www.parrot3d.com) |
+
+I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, Please don't use metal thread to plastic).
 
 ##### Fasteners (Hex Socket Head Cap Screws)
 
@@ -116,5 +118,3 @@
 | LCD Cover Bracket Left | 1 |
 | LCD Cover Bracket Right | 1 |
 | LCD Cover | 1 |
-
-I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, Please don't use metal thread to plastic).
