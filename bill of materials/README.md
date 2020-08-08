@@ -83,7 +83,7 @@
 | Bondtech Prusa Extruder,<br>E3d Hermera Extruder,<br>E3D V6 with Bear Extruder | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | Mean Well LRS350-24V | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | BLTouch | 1 | | [Parrot 3D](https://www.parrot3d.com) |
-| Blowers 52x15mm 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
-| B4010 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
+| Blowers Fan 52x15mm 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
+| Fan 40x10 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 
 I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, Please don't use metal thread to plastic).
