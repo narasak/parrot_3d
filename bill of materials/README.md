@@ -13,6 +13,7 @@
 | Linear Rail MGW12C-1R-375 | 1 | 1x for Y-Axis | [Parrot 3D](https://www.parrot3d.com) |
 | Linear Rail MGW12C-1R-295 | 1 | 1x for X-Axis | [Parrot 3D](https://www.parrot3d.com) |
 | Linear Rail MGN15C-1R-315 | 2 | 2x for Z-Axis | [Parrot 3D](https://www.parrot3d.com) |
+| Rubber Feet | 4 | | [Parrot 3D](https://www.parrot3d.com) |
 
 ##### Fasteners (Hex Socket Head Cap Screws)
 
@@ -81,5 +82,8 @@
 | MK52 Heated Bed 24V | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | Bondtech Prusa Extruder,<br>E3d Hermera Extruder,<br>E3D V6 with Bear Extruder | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 | Mean Well LRS350-24V | 1 | | [Parrot 3D](https://www.parrot3d.com) |
+| BLTouch | 1 | | [Parrot 3D](https://www.parrot3d.com) |
+| Blowers 52x15mm 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
+| B4010 24VDC | 1 | | [Parrot 3D](https://www.parrot3d.com) |
 
 I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, Please don't use metal thread to plastic).
