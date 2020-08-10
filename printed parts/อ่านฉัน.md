@@ -48,5 +48,5 @@
 | Heated Bed Cable Lower Cover      | 1 | PETG or PETG-CF | 0.20mm | 25% | 3 | 5 |
 | Heated Bed Cable Upper Cover      | 1 | PETG or PETG-CF | 0.20mm | 25% | 3 | 5 |
 | `Z-Axis` |||||||
+| Z-Axis Leadscrew Cap              | 2 | PETG or PETG-CF | 0.20mm | 30% | 3 | 5 |
 | Z-Axis Motor Mount                | 2 | PETG or PETG-CF | 0.20mm | 35% | 4 | 5 |
-| Z-Axis Motor Mount                | 2 | PETG or PETG-CF | 0.20mm | 30% | 3 | 5 |
