@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add print settings">
-      <change afterPath="$PROJECT_DIR$/cnc parts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc parts/อ่านฉัน.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Parrot_3D_Carbon_Fiber_Parts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Parrot_3D_Printed_Parts.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/printed parts/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/printed parts/อ่านฉัน.md" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add cnc parts (stl files)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed parts/Extruder/Cable Holder Base.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed parts/Extruder/Cable Holder Base.stl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +44,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cnc parts/STL" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/printed parts/Z-Axis" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/printed parts/Z-Axis" />
       <recent name="$PROJECT_DIR$/printed parts" />
     </key>
   </component>
@@ -74,7 +73,8 @@
       <workItem from="1597047517984" duration="5000" />
       <workItem from="1597047984216" duration="786000" />
       <workItem from="1597050875585" duration="3368000" />
-      <workItem from="1597108750786" duration="647000" />
+      <workItem from="1597108750786" duration="1147000" />
+      <workItem from="1597117893094" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -223,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597080043081</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add cnc parts (stl files)">
+      <created>1597109735792</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1597109735792</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add cnc parts (stl files)">
+      <created>1597109889597</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1597109889597</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,17 +266,18 @@
     <MESSAGE value="Initial Bill of Materials in Thai Language" />
     <MESSAGE value="Add Logo of Parrot 3D" />
     <MESSAGE value="Add print settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add print settings" />
+    <MESSAGE value="Add cnc parts (stl files)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add cnc parts (stl files)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597051430327">
+    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109715104">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1597051430327" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597080044485">
+    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1597109715104" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597109891696">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597080044485" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597109891696" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596907931777">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
