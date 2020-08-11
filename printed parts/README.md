@@ -1,8 +1,9 @@
 # Parrot 3D
+![Parrot 3D Printed Parts](https://github.com/narasak/parrot_3d/blob/master/img/Parrot_3D_Printed_Parts.png?raw=true)
 
 ## Print Settings
 
-:warning: **This is very important! Please ensure your prints are good, be sure to have a very well calibrated machine and extruder.** :warning:
+:warning: **This is very important!** :warning: Please ensure your prints are good, be sure to have a very well calibrated machine and extruder.
 
 
 ### Parameters
