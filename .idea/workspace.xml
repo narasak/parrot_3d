@@ -19,60 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Fixed Cable Holder Base for easy printing.">
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STL/Extruder/Bear/Bear Extruder Plate.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STL/Extruder/Bondtech/Bondtech Extuder Plate.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STL/Extruder/Hermera/Hemera Extuder Plate.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STL/Extruder/X-Axis Slide Plate.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/Hermera/Hemera Collet Clip.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/Hermera/Hemera Fan Duct.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/Hermera/Hemera Fan Spacer.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/Hermera/Hermera Mount Plate.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/Hermera/Hermera PINDA2 Mount.stl" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Hermera Mount Parts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bill of materials/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bill_of_materials/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bill of materials/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/bill_of_materials/อ่านฉัน.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/Frame/Z-Axis Limit Plate Left.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/Frame/Z-Axis Limit Plate Left.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/Frame/Z-Axis Limit Plate Right.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/Frame/Z-Axis Limit Plate Right.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/X-Axis/X-Axis Belt Tensioner Bottom.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/X-Axis/X-Axis Belt Tensioner Bottom.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/X-Axis/X-Axis Belt Tensioner Top.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/X-Axis/X-Axis Belt Tensioner Top.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/X-Axis/X-Axis Motor Plate.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/X-Axis/X-Axis Motor Plate.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/Y-Axis/Heated Bed Carriage Support.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Heated Bed Carriage Support.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/Y-Axis/Heated Bed Carriage.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Heated Bed Carriage.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/Y-Axis/Y-Axis Linear Guide Plate Support.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Y-Axis Linear Guide Plate Support.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/Y-Axis/Y-Axis Linear Guide Plate.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Y-Axis Linear Guide Plate.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/STL/Y-Axis/Y-Axis Motor Plate.stl" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Y-Axis Motor Plate.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc parts/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/อ่านฉัน.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/BTT TFT35/LCD Cover Bracket Left.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/BTT TFT35/LCD Cover Bracket Left.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/BTT TFT35/LCD Cover Bracket Right.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/BTT TFT35/LCD Cover Bracket Right.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/BTT TFT35/LCD Cover.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/BTT TFT35/LCD Cover.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Extruder/Cable Holder Base.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Extruder/Cable Holder Base.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Extruder/Cable Holder Stand.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Extruder/Cable Holder Stand.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Extruder/Cable Holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Extruder/Cable Holder.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Extruder/X-Belt Holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Extruder/X-Belt Holder.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Frame/Cable Lock_X8.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Frame/Cable Lock_X8.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Frame/End Cap_X6.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Frame/End Cap_X6.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Frame/Rubber Feet Base_X4.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Frame/Rubber Feet Base_X4.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Frame/Wiring Cable Lock_X4.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Frame/Wiring Cable Lock_X4.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Mean Well LRS350-24V/MW LRS350-24V Box.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Mean Well LRS350-24V/MW LRS350-24V Box.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Mean Well LRS350-24V/MW LRS350-24V Door.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Mean Well LRS350-24V/MW LRS350-24V Door.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Mean Well LRS350-24V/MW LRS350-24V Switch.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Mean Well LRS350-24V/MW LRS350-24V Switch.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/SKR 1.4 Box/Cable Holder Long_X3.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/SKR 1.4 Box/Cable Holder Long_X3.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/SKR 1.4 Box/Cable Holder Medium.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/SKR 1.4 Box/Cable Holder Medium.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/SKR 1.4 Box/Cable Holder Short_X3.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/SKR 1.4 Box/Cable Holder Short_X3.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/SKR 1.4 Box/SKR 1.4 Base Box.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/SKR 1.4 Box/SKR 1.4 Base Box.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/SKR 1.4 Box/SKR 1.4 Cover Box.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/SKR 1.4 Box/SKR 1.4 Cover Box.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/X-Axis/Lead Screw Holder_X2.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/X-Axis/Lead Screw Holder_X2.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/X-Axis/X-Axis Motor Cover.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/X-Axis/X-Axis Motor Cover.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Y-Axis/Heated Bed Cable Lower Cover.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Y-Axis/Heated Bed Cable Lower Cover.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Y-Axis/Heated Bed Cable Upper Cover.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Y-Axis/Heated Bed Cable Upper Cover.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Y-Axis/Y-Axis Belt Holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Y-Axis/Y-Axis Belt Holder.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Y-Axis/Y-Axis Motor Cover.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Y-Axis/Y-Axis Motor Cover.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Z-Axis/Z-Axis Leadscrew Cap.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Z-Axis/Z-Axis Leadscrew Cap.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/Z-Axis/Z-Axis Motor Mount_X2.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/Z-Axis/Z-Axis Motor Mount_X2.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed parts/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/อ่านฉัน.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +75,8 @@
       <workItem from="1597047984216" duration="786000" />
       <workItem from="1597050875585" duration="3368000" />
       <workItem from="1597108750786" duration="1147000" />
-      <workItem from="1597117893094" duration="1007000" />
+      <workItem from="1597117893094" duration="1152000" />
+      <workItem from="1597128339686" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -297,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597121311134</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add Hermera Mount Parts">
+      <created>1597122499023</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1597122499023</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,17 +284,18 @@
     <MESSAGE value="Add print settings" />
     <MESSAGE value="Add cnc parts (stl files)" />
     <MESSAGE value="Fixed Cable Holder Base for easy printing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Cable Holder Base for easy printing." />
+    <MESSAGE value="Add Hermera Mount Parts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Hermera Mount Parts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109715104">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1597109715104" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597121312464">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597122500528">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597121312464" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597122500528" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596907931777">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
