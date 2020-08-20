@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add belt tensioner idler holder set">
+      <change afterPath="$PROJECT_DIR$/cnc_parts/STL/X-Axis/X-Axis Belt Tensioner Knob.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Y-Axis Belt Tensioner Knob.stl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +41,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cnc_parts/STL/Y-Axis" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/printed parts/Z-Axis" />
-      <recent name="$PROJECT_DIR$/printed parts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cnc parts/STL/Extruder" />
       <recent name="$PROJECT_DIR$/cnc parts/STL/Extruder/Bear" />
       <recent name="$PROJECT_DIR$/cnc parts/STL" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cnc_parts/STL/Y-Axis" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/printed parts/Z-Axis" />
+      <recent name="$PROJECT_DIR$/printed parts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,6 +80,7 @@
       <workItem from="1597117893094" duration="1152000" />
       <workItem from="1597128339686" duration="8000" />
       <workItem from="1597827265182" duration="321000" />
+      <workItem from="1597917185004" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -261,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597827365542</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add belt tensioner idler holder set">
+      <created>1597917285130</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1597917285130</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,17 +304,18 @@
     <MESSAGE value="Fixed Cable Holder Base for easy printing." />
     <MESSAGE value="Add Hermera Mount Parts" />
     <MESSAGE value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
+    <MESSAGE value="Add belt tensioner idler holder set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add belt tensioner idler holder set" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109715104">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1597109715104" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597827367057">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597917286814">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597827367057" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597917286814" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596907931777">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
