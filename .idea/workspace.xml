@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Hermera Mount Parts">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
       <workItem from="1597108750786" duration="1147000" />
       <workItem from="1597117893094" duration="1152000" />
       <workItem from="1597128339686" duration="8000" />
+      <workItem from="1597827265182" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -253,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597122499023</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D">
+      <created>1597827365542</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1597827365542</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,17 +293,18 @@
     <MESSAGE value="Add cnc parts (stl files)" />
     <MESSAGE value="Fixed Cable Holder Base for easy printing." />
     <MESSAGE value="Add Hermera Mount Parts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Hermera Mount Parts" />
+    <MESSAGE value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109715104">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1597109715104" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597122500528">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597827367057">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597122500528" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597827367057" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596907931777">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
