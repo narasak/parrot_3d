@@ -19,24 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add x, y axis belt tensioner knob">
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Extruder/Bear/Bear_Extruder_Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Extruder/Bondtech/Bondtech_extuder_Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Extruder/Hemera/Hemera_Extuder_Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Extruder/SFP/SFP_Extruder_Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Extruder/X-Axis Slide Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Frame/Z-Axis Limit Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/X-Axis/X Belt Tensioner Bottom.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/X-Axis/X Belt Tensioner Top.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/X-Axis/X-Axis Motor Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis/Heated Bed carriage Support.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis/Heated Bed carriage.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis/Y Belt Tensioner Bottom.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis/Y Belt Tensioner Top.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis/Y-Axis Linear Guide Plate Support.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis/Y-Axis Linear Guide Plate.STEP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis/Y-Axis Motor Plate.STEP" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add STEP files for CNC Parts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnc_parts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cnc_parts/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +84,7 @@
       <workItem from="1597128339686" duration="8000" />
       <workItem from="1597827265182" duration="321000" />
       <workItem from="1597917185004" duration="602000" />
-      <workItem from="1598111468909" duration="372000" />
+      <workItem from="1598111468909" duration="1922000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -297,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597917915730</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add STEP files for CNC Parts">
+      <created>1598111944099</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1598111944099</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,17 +324,18 @@
     <MESSAGE value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
     <MESSAGE value="Add belt tensioner idler holder set" />
     <MESSAGE value="Add x, y axis belt tensioner knob" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add x, y axis belt tensioner knob" />
+    <MESSAGE value="Add STEP files for CNC Parts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add STEP files for CNC Parts" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109715104">
+    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598111787903">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1597109715104" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597917916932">
+    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1598111787903" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1598111945691">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597917916932" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1598111945691" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596907931777">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
