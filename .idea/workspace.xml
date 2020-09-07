@@ -19,10 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update document of CNC Parts">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update read me">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnc_parts/STL/X-Axis/X-Axis Motor Plate.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Y-Axis Motor Plate.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/Extruder/Cable Holder Base.stl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +42,9 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -85,7 +87,9 @@
       <workItem from="1597128339686" duration="8000" />
       <workItem from="1597827265182" duration="321000" />
       <workItem from="1597917185004" duration="602000" />
-      <workItem from="1598111468909" duration="2916000" />
+      <workItem from="1598111468909" duration="3353000" />
+      <workItem from="1598241615109" duration="177000" />
+      <workItem from="1599444535908" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -297,7 +301,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598114168353</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Update read me">
+      <created>1598115910958</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1598115910958</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Update read me">
+      <created>1598116076690</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1598116076690</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,20 +352,21 @@
     <MESSAGE value="Add x, y axis belt tensioner knob" />
     <MESSAGE value="Add STEP files for CNC Parts" />
     <MESSAGE value="Update document of CNC Parts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update document of CNC Parts" />
+    <MESSAGE value="Update read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update read me" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598111787903">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1598111787903" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1598114170026">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1598116077780">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1598114170026" />
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596907931777">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1598116077780" />
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599444538588">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1596907931777" />
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599444538588" />
   </component>
 </project>

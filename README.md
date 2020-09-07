@@ -19,6 +19,16 @@ Here are the features that explain why I decided to create another printer.
 ![Parrot 3D Y-Axis](https://github.com/narasak/parrot_3d/blob/master/img/Parrot_3D_Y-Axis_Small.jpg?raw=true)
 * Open source by providing STL and DWG Drawing (For STEP files we will provide in the future)
 
+### Firmware
+We made custom firmware for Parrot 3D based on popular well known firmware, you can choose firmware that you like.
+
+Here are the place were the Firmware of Parrot 3D are store.
+
+* [Parrot 3D Firmware](https://github.com/narasak/parrot_3d_firmware)
+* [Marlin Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_firmware/tree/master/Marlin)
+* [Klipper Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_firmware/tree/master/Klipper)
+* [Parrot 3D Firmware for BTT TFT 3.5" Display](https://github.com/narasak/parrot_3d_firmware/tree/master/BTT%20TFT35)
+
 ### Community
 Here are the places were the Parrot 3D project is the most active. Do not hesitate to ask if you have a question :
 * Facebook group: [facebook.com/groups/parrot3d](https://www.facebook.com/groups/parrot3d)
