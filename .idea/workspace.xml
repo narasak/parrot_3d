@@ -26,60 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Duet 3 enclosure to optional printed parts directory">
-      <change afterPath="$PROJECT_DIR$/printed_parts/Z-Axis/STEP/z-axis_leadscrew_cap.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Z-Axis/STEP/z-axis_motor_mount_x2.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Z-Axis/STL/z-axis_leadscrew_cap.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/Z-Axis/STL/z-axis_motor_mount_x2.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STEP/cable_lock_x8.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STEP/end_cap_x6.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STEP/rubber_feet_base_x4.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STEP/wiring_cable_lock_x4.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STL/cable_lock_x8.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STL/end_cap_x6.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STL/rubber_feet_base_x4.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/frame/STL/wiring_cable_lock_x4.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/x-axis/STEP/lead_screw_holder_x2.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/x-axis/STEP/x-Axis_motor_cover.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/x-axis/STL/lead_screw_holder_x2.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/x-axis/STL/x-Axis_motor_cover.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STEP/heated_bed_able_lower_cover.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STEP/heated_bed_able_upper_cover.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STEP/y-Axis_motor_cover.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STEP/y-axis_belt_holder.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STL/heated_bed_able_lower_cover.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STL/heated_bed_able_upper_cover.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STL/y-Axis_motor_cover.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/y-axis/STL/y-axis_belt_holder.stl" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add STEP files of printed parts (In progress)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STEP/Parrot3D Duet3 Box.step" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP/parrot3d_duet3_box.step" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Box.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STL/parrot3d_duet3_box.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Cable_Holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STL/parrot3d_duet3_cable_holder_x4.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Lid.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STL/parrot3d_duet3_lid.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_RaspberryPi_Base.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STL/parrot3D_duet3_raspberry_pi_base.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_RaspberryPi_Lid.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STL/parrot3d_duet3_raspberry_pi_lid.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box_Rander1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box_rander1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box_Rander2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box_rander2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/img/Parrot_3D_Duet3_Box_Rander3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/img/parrot_3d_duet3_box_rander3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Frame/Cable Lock_X8.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Frame/End Cap_X6.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Frame/Rubber Feet Base_X4.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Frame/Wiring Cable Lock_X4.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/X-Axis/Lead Screw Holder_X2.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/X-Axis/X-Axis Motor Cover.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Y-Axis/Heated Bed Cable Lower Cover.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Y-Axis/Heated Bed Cable Upper Cover.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Y-Axis/Y-Axis Belt Holder.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Y-Axis/Y-Axis Motor Cover.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Z-Axis/Z-Axis Leadscrew Cap.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Z-Axis/Z-Axis Motor Mount_X2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +105,7 @@
       <workItem from="1599444535908" duration="650000" />
       <workItem from="1599552483041" duration="254000" />
       <workItem from="1599969003693" duration="2578000" />
+      <workItem from="1599998403887" duration="789000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -423,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599981957477</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Add STEP files of printed parts (In progress)">
+      <created>1599986275674</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1599986275674</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,17 +432,19 @@
     <MESSAGE value="Update document of CNC Parts" />
     <MESSAGE value="Update read me" />
     <MESSAGE value="Add Duet 3 enclosure to optional printed parts directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Duet 3 enclosure to optional printed parts directory" />
+    <MESSAGE value="Add STEP files of printed parts (In progress)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add STEP files of printed parts (In progress)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599984926208">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1599984926208" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1599981958813">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="496" y="303" key="Vcs.Push.Dialog.v2" timestamp="1599986298165">
+      <screen x="0" y="23" width="1792" height="1044" />
     </state>
     <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599981958813" />
+    <state x="496" y="303" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1599986298165" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599444538588">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

@@ -25,9 +25,9 @@ We made custom firmware for Parrot 3D based on popular well known firmware, you 
 Here are the place were the Firmware of Parrot 3D are store.
 
 * [Parrot 3D Firmware](https://github.com/narasak/parrot_3d_firmware)
-* [Marlin Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_firmware/tree/master/Marlin) Recommended for beginner user to advance user 
-* [Klipper Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_firmware/tree/master/Klipper) Recommended for intermediate user to advance user
-* [Parrot 3D Firmware for BTT TFT 3.5" Display](https://github.com/narasak/parrot_3d_firmware/tree/master/BTT%20TFT35)
+* [Marlin Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_firmware) Recommended for beginner user to advance user 
+* [Klipper Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_klipper_firmware) Recommended for intermediate user to advance user
+* [Parrot 3D Firmware for BTT TFT 3.5" Display](https://github.com/narasak/parrot_3d_tft35_firmware)
 
 ### Community
 Here are the places were the Parrot 3D project is the most active. Do not hesitate to ask if you have a question :
