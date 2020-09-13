@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update read me">
+      <change afterPath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc_parts/STL/X-Axis/X-Axis Motor Plate.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnc_parts/STL/Y-Axis/Y-Axis Motor Plate.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printed_parts/Extruder/Cable Holder Base.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +42,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
-      <recent name="$PROJECT_DIR$/cnc_parts/STL/Y-Axis" />
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/printed parts/Z-Axis" />
-      <recent name="$PROJECT_DIR$/printed parts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder/SFP" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/X-Axis" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Frame" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/img" />
+      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/STEP" />
+      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/STL" />
+      <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
+      <recent name="$PROJECT_DIR$/cnc_parts/STL/Y-Axis" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,7 +88,9 @@
       <workItem from="1597917185004" duration="602000" />
       <workItem from="1598111468909" duration="3353000" />
       <workItem from="1598241615109" duration="177000" />
-      <workItem from="1599444535908" duration="307000" />
+      <workItem from="1599444535908" duration="650000" />
+      <workItem from="1599552483041" duration="254000" />
+      <workItem from="1599969003693" duration="1623000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -315,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598116076690</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Update read me">
+      <created>1599444980839</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1599444980839</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,10 +368,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1598111787903" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1598116077780">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1599444982347">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1598116077780" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599444982347" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599444538588">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
