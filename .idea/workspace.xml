@@ -19,11 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update read me">
-      <change afterPath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/README.md" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Duet 3 enclosure to optional printed parts directory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Box.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Box.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Cable_Holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Cable_Holder.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Lid.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_Lid.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_RaspberryPi_Base.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_RaspberryPi_Base.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_RaspberryPi_Lid.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box/STL/Parrot3D_Duet3_RaspberryPi_Lid.stl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +36,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fZvg5q9DNDVduZNfcYCIuf8lF0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -90,7 +96,7 @@
       <workItem from="1598241615109" duration="177000" />
       <workItem from="1599444535908" duration="650000" />
       <workItem from="1599552483041" duration="254000" />
-      <workItem from="1599969003693" duration="1623000" />
+      <workItem from="1599969003693" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -323,7 +329,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599444980839</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Add Duet 3 enclosure to optional printed parts directory">
+      <created>1599980504151</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1599980504151</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add Duet 3 enclosure to optional printed parts directory">
+      <created>1599980530110</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1599980530110</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +362,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial README.md" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Initial Readme In Thai Language" />
@@ -361,17 +382,18 @@
     <MESSAGE value="Add STEP files for CNC Parts" />
     <MESSAGE value="Update document of CNC Parts" />
     <MESSAGE value="Update read me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update read me" />
+    <MESSAGE value="Add Duet 3 enclosure to optional printed parts directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Duet 3 enclosure to optional printed parts directory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598111787903">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1598111787903" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1599444982347">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1599980580676">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599444982347" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599980580676" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599444538588">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
