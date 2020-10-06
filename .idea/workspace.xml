@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Prepare to release version 1" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add reverse bowden" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +109,7 @@
       <workItem from="1601521041363" duration="159000" />
       <workItem from="1601521210922" duration="57000" />
       <workItem from="1601885261272" duration="607000" />
+      <workItem from="1601995126670" duration="774000" />
     </task>
     <task id="LOCAL-00001" summary="Initial README.md">
       <created>1596441291980</created>
@@ -411,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601887747009</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Add reverse bowden">
+      <created>1601995304125</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1601995304125</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,19 +474,24 @@
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Reduce size of duet 3 box for print on 220x220 bed size" />
     <MESSAGE value="Prepare to release version 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prepare to release version 1" />
+    <MESSAGE value="Add reverse bowden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add reverse bowden" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599984926208">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1599984926208" />
-    <state x="496" y="303" key="Vcs.Push.Dialog.v2" timestamp="1601887748279">
-      <screen x="0" y="23" width="1792" height="1044" />
+    <state x="584" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601995153121">
+      <screen x="0" y="23" width="3440" height="1364" />
+    </state>
+    <state x="584" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.3440.1364@0.23.3440.1364" timestamp="1601995153121" />
+    <state x="952" y="389" key="Vcs.Push.Dialog.v2" timestamp="1601995305764">
+      <screen x="0" y="23" width="3440" height="1364" />
     </state>
     <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599981958813" />
     <state x="496" y="303" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1601887748279" />
-    <state x="952" y="389" key="Vcs.Push.Dialog.v2/0.23.3440.1364@0.23.3440.1364" timestamp="1600004909299" />
+    <state x="952" y="389" key="Vcs.Push.Dialog.v2/0.23.3440.1364@0.23.3440.1364" timestamp="1601995305764" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599444538588">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
