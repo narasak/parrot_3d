@@ -11,12 +11,12 @@ Here are the features that explain why I decided to create another printer.
 * Single linear rail on both X-Axis and Y-Axis it provided easier setup, alignment, silent and supper smooth
 * Use more aluminum, more carbon fiber and less printed parts (3D printed parts can crack and are less reliable)
 * Support 4 types of Extruders with full build volumes (250 mm x 210 mm)
-
-![Parrot 3D Hemera Extruder](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_hemera.jpg)
     * E3D Hemera Extruder
     * Bondtech Prusa MK3S Extruder
     * Bear Extruder (Designed by [Grégoire Saunier](https://github.com/gregsaun/bear_extruder_and_x_axis))
     * SFP Extruder (Designed by [Gerd Jentz](https://github.com/gerdj/RedBear/tree/master/SFP_Extruder?fbclid=IwAR3Uj-65sifwO2yWpbCwoKYdIusArH3cBH_lzmMJN2WZawB7Bh3vTl2CO8A))
+
+![Parrot 3D Hemera Extruder](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_hemera.jpg)
 
 ![Parrot 3D Y-Axis](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_y-axis.jpg)
 * Open source by providing STL and DWG Drawing (For STEP files we will provide in the future)
