@@ -1,7 +1,7 @@
-# Parrot 3D Prusa Einsy Box
+# Parrot 3D Prusa Einsy Rambo Box
 ![Parrot 3D Prusa Einsy Box](https://github.com/narasak/parrot_3d/blob/master/optional_printed_parts/prusa_einsy_box/prusa_einsy_box.jpg)
 
-### This is an enclosure for the Prusa Einsy controller that is designed to fit 3030 extruded framing of Parrot 3D.<br/>
+### This is an enclosure for the Prusa Einsy Rambo controller that is designed to fit 3030 extruded framing of Parrot 3D.<br/>
 STEP files are included, so you can easily modify the design to fit your application.
 
 Key Features
