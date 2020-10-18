@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add prusa delta psu box" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,13 +122,7 @@
       <workItem from="1602751012453" duration="508000" />
       <workItem from="1602818031600" duration="1723000" />
       <workItem from="1602831193184" duration="3000" />
-    </task>
-    <task id="LOCAL-00006" summary="Initial bill of material in english">
-      <created>1596899578515</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1596899578515</updated>
+      <workItem from="1602987773348" duration="161000" />
     </task>
     <task id="LOCAL-00007" summary="Add Hex Socket Head Cap Screws in-to Bill Of Materials">
       <created>1596900215983</created>
@@ -468,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602824776712</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Add prusa delta psu box">
+      <created>1602987798876</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1602987798877</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +499,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add Hex Socket Head Cap Screws in-to Bill Of Materials" />
     <MESSAGE value="Initial Bill of Materials in Thai Language" />
     <MESSAGE value="Add Logo of Parrot 3D" />
     <MESSAGE value="Add print settings" />
@@ -525,7 +523,8 @@
     <MESSAGE value="Update Prusa Einsy Box" />
     <MESSAGE value="Update SKR 1.4 Control Box" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Add prusa delta psu box" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add prusa delta psu box" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="193" key="#Plugins" timestamp="1602140803471">
@@ -541,10 +540,10 @@
     </state>
     <state x="304" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1792.1044@0.23.1792.1044" timestamp="1602131206160" />
     <state x="584" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.3440.1364@0.23.3440.1364" timestamp="1602560585829" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602824778129">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602987800310">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602824778129" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602987800310" />
     <state x="496" y="303" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1602134243988" />
     <state x="952" y="389" key="Vcs.Push.Dialog.v2/0.23.3440.1364@0.23.3440.1364" timestamp="1602560528470" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602824793276">
