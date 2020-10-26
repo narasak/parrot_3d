@@ -26,6 +26,11 @@ We made custom firmware for Parrot 3D based on popular well known firmware, you 
 
 Here are the place were the Firmware of Parrot 3D are store.
 
+### For Who use Original Prusa Einsy RAMBO Board
+* [Prusa i3 MK3S Firmware](https://www.prusa3d.com/drivers)
+* [Bondtech Prusa i3 MK3S Firmware](https://www.bondtech.se/en/knowledge-base/firmware-updates-for-prusa-i3)
+
+### For Who use SKR 1.4 Turbo Board
 * [Parrot 3D Firmware](https://github.com/narasak/parrot_3d_firmware)
 * [Marlin Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_firmware) Recommended for beginner user to advance user 
 * [Klipper Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_klipper_firmware) Recommended for intermediate user to advance user
