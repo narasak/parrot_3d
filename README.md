@@ -27,6 +27,7 @@ We made custom firmware for Parrot 3D based on popular well known firmware, you 
 Here are the place were the Firmware of Parrot 3D are store.
 
 ### For Who use Original Prusa Einsy RAMBO Board
+⚠️ Please switching red and blue wire for your Y-Axis motor ⚠️
 * [Prusa i3 MK3S Firmware](https://www.prusa3d.com/drivers)
 * [Bondtech Prusa i3 MK3S Firmware](https://www.bondtech.se/en/knowledge-base/firmware-updates-for-prusa-i3)
 
