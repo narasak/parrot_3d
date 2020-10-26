@@ -1,0 +1,49 @@
+<changelist name="Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]" date="1603722542305" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 26/10/2020 AD 21:27 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="printed_parts/y-axis/STEP/y-axis_belt_holder.step" />
+    <option name="AFTER_PATH" value="printed_parts/y-axis/STEP/y-axis_belt_holder.step" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/y-axis_belt_holder.step" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="printed_parts/x-axis/STEP/lead_screw_holder.step.step" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/lead_screw_holder.step.step" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="printed_parts/Extruder/stl/bondtech/cable_holder_base.stl" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/cable_holder_base.stl" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="printed_parts/x-axis/STEP/lead_screw_holder_x2.step" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="printed_parts/Extruder/stl/all_extruder/cable_holder_base.stl" />
+    <option name="AFTER_PATH" value="printed_parts/Extruder/stl/hermera/cable_holder_base.stl" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/cable_holder_base1.stl" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="printed_parts/Extruder/step/all_extruder/x_belt_holder.step" />
+    <option name="AFTER_PATH" value="printed_parts/Extruder/step/hemera/x_belt_holder.step" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/x_belt_holder.step" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="printed_parts/Extruder/step/bondtech/cable_holder_base.step" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/cable_holder_base.step" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="printed_parts/x-axis/STL/lead_screw_holder.stl" />
+    <option name="AFTER_PATH" value="printed_parts/x-axis/STL/lead_screw_holder.stl" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/lead_screw_holder.stl" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="printed_parts/y-axis/STL/y-axis_belt_holder.stl" />
+    <option name="AFTER_PATH" value="printed_parts/y-axis/STL/y-axis_belt_holder.stl" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/y-axis_belt_holder.stl" />
+  </binary>
+</changelist>
