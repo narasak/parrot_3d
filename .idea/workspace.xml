@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce size of Duet 3 Box." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,21 +134,7 @@
       <workItem from="1603768731979" duration="56000" />
       <workItem from="1603768801695" duration="262000" />
       <workItem from="1603940748122" duration="19000" />
-      <workItem from="1604981667094" duration="4594000" />
-    </task>
-    <task id="LOCAL-00014" summary="Add Hex Socket Head Cap Screws in-to Bill Of Materials">
-      <created>1596907435457</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1596907435457</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Add Hex Socket Head Cap Screws in-to Bill Of Materials">
-      <created>1596907888883</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1596907888883</updated>
+      <workItem from="1604981667094" duration="4943000" />
     </task>
     <task id="LOCAL-00016" summary="Add Hex Socket Head Cap Screws in-to Bill Of Materials">
       <created>1596907943824</created>
@@ -479,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604982272889</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Reduce size of Duet 3 Box.">
+      <created>1604986853706</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1604986853706</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Reduce size of Duet 3 Box.">
+      <created>1604986963619</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1604986963619</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add print settings" />
     <MESSAGE value="Add cnc parts (stl files)" />
     <MESSAGE value="Fixed Cable Holder Base for easy printing." />
     <MESSAGE value="Add Hermera Mount Parts" />
@@ -536,7 +535,8 @@
     <MESSAGE value="Update Prusa Einsy Box" />
     <MESSAGE value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
     <MESSAGE value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
+    <MESSAGE value="Reduce size of Duet 3 Box." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduce size of Duet 3 Box." />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="193" key="#Plugins" timestamp="1602140803471">
@@ -556,10 +556,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="179" y="101" key="MergeDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1603722542141" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604982276528">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604986964784">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604982276528" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604986964784" />
     <state x="496" y="303" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1602134243988" />
     <state x="952" y="389" key="Vcs.Push.Dialog.v2/0.23.3440.1364@0.23.3440.1364" timestamp="1602560528470" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603722469613">
