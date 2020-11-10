@@ -26,26 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Fixed X, Y length for past Prusa Firmware self test and calibration.">
-      <change afterPath="$PROJECT_DIR$/optional_printed_parts/meanwell_hrp_300_24_box/step/hrp_300_24_box.step" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/optional_printed_parts/meanwell_hrp_300_24_box/stl/hrp_300_24_box.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/optional_printed_parts/meanwell_hrp_300_24_box/stl/hrp_300_24_box_door.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/optional_printed_parts/meanwell_hrp_300_24_box/stl/hrp_300_24_box_top_mount.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2020_AD_01_42_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2020_AD_01_42__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/cable_holder_base.step" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/cable_holder_base.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/cable_holder_base1.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/lead_screw_holder.step.step" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/lead_screw_holder.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/x_belt_holder.step" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/y-axis_belt_holder.step" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27_[Default_Changelist]/y-axis_belt_holder.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_AD_21_27__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STL/parrot3d_duet3_lid.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STL/parrot3d_duet3_lid.stl" afterDir="false" />
-    </list>
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,14 +134,7 @@
       <workItem from="1603768731979" duration="56000" />
       <workItem from="1603768801695" duration="262000" />
       <workItem from="1603940748122" duration="19000" />
-      <workItem from="1604981667094" duration="223000" />
-    </task>
-    <task id="LOCAL-00013" summary="Add Hex Socket Head Cap Screws in-to Bill Of Materials">
-      <created>1596907353923</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1596907353923</updated>
+      <workItem from="1604981667094" duration="4594000" />
     </task>
     <task id="LOCAL-00014" summary="Add Hex Socket Head Cap Screws in-to Bill Of Materials">
       <created>1596907435457</created>
@@ -498,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603723103038</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Add MeanWell HRP-300-24 Box in Optional Printed Parts">
+      <created>1604982272888</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1604982272889</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add Logo of Parrot 3D" />
     <MESSAGE value="Add print settings" />
     <MESSAGE value="Add cnc parts (stl files)" />
     <MESSAGE value="Fixed Cable Holder Base for easy printing." />
@@ -555,7 +535,8 @@
     <MESSAGE value="Add prusa delta psu box" />
     <MESSAGE value="Update Prusa Einsy Box" />
     <MESSAGE value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
+    <MESSAGE value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="193" key="#Plugins" timestamp="1602140803471">
@@ -575,10 +556,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="179" y="101" key="MergeDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1603722542141" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1603723104459">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604982276528">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1603723104459" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604982276528" />
     <state x="496" y="303" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1602134243988" />
     <state x="952" y="389" key="Vcs.Push.Dialog.v2/0.23.3440.1364@0.23.3440.1364" timestamp="1602560528470" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603722469613">
