@@ -135,13 +135,7 @@
       <workItem from="1603768801695" duration="262000" />
       <workItem from="1603940748122" duration="19000" />
       <workItem from="1604981667094" duration="4943000" />
-    </task>
-    <task id="LOCAL-00016" summary="Add Hex Socket Head Cap Screws in-to Bill Of Materials">
-      <created>1596907943824</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1596907943824</updated>
+      <workItem from="1604995096025" duration="169000" />
     </task>
     <task id="LOCAL-00017" summary="Initial Bill of Materials in Thai Language">
       <created>1596910102402</created>
@@ -479,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604986963619</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Reduce size of Duet 3 Box">
+      <created>1604995131503</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1604995131504</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +512,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add cnc parts (stl files)" />
     <MESSAGE value="Fixed Cable Holder Base for easy printing." />
     <MESSAGE value="Add Hermera Mount Parts" />
     <MESSAGE value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
@@ -536,7 +536,8 @@
     <MESSAGE value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
     <MESSAGE value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
     <MESSAGE value="Reduce size of Duet 3 Box." />
-    <option name="LAST_COMMIT_MESSAGE" value="Reduce size of Duet 3 Box." />
+    <MESSAGE value="Reduce size of Duet 3 Box" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduce size of Duet 3 Box" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="193" key="#Plugins" timestamp="1602140803471">
@@ -556,10 +557,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="179" y="101" key="MergeDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1603722542141" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604986964784">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604995132978">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604986964784" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604995132978" />
     <state x="496" y="303" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1602134243988" />
     <state x="952" y="389" key="Vcs.Push.Dialog.v2/0.23.3440.1364@0.23.3440.1364" timestamp="1602560528470" />
     <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603722469613">
