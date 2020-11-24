@@ -26,7 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce size of Duet 3 Box." />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce size of Duet 3 Box.">
+      <change afterPath="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl/mmu2_frame_holder.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,23 +56,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl" />
+      <recent name="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box" />
+      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/img" />
+      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/STEP" />
+      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/STL" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder/SFP" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/X-Axis" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box" />
-      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/img" />
-      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/STEP" />
-      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/STL" />
-      <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -136,6 +139,10 @@
       <workItem from="1603940748122" duration="19000" />
       <workItem from="1604981667094" duration="4943000" />
       <workItem from="1604995096025" duration="169000" />
+      <workItem from="1605348217589" duration="11000" />
+      <workItem from="1605357265823" duration="3000" />
+      <workItem from="1605953558537" duration="52000" />
+      <workItem from="1606103214787" duration="109000" />
     </task>
     <task id="LOCAL-00017" summary="Initial Bill of Materials in Thai Language">
       <created>1596910102402</created>
