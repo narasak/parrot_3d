@@ -26,10 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce size of Duet 3 Box.">
-      <change afterPath="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl/mmu2_frame_holder.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce size of Duet 3 Box." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +140,7 @@
       <workItem from="1605357265823" duration="3000" />
       <workItem from="1605953558537" duration="52000" />
       <workItem from="1606103214787" duration="109000" />
+      <workItem from="1606656249314" duration="21000" />
     </task>
     <task id="LOCAL-00017" summary="Initial Bill of Materials in Thai Language">
       <created>1596910102402</created>
