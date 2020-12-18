@@ -37,6 +37,9 @@ Here are the place were the Firmware of Parrot 3D are store.
 * [Klipper Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_klipper_firmware) Recommended for intermediate user to advance user
 * [Parrot 3D Firmware for BTT TFT 3.5" Display](https://github.com/narasak/parrot_3d_tft35_firmware)
 
+### For Who use Duet 3 Mainboard 6CH
+* [Duet 3 Firmware for Parrot 3D](https://github.com/narasak/parrot_3d_duet_firmware) Recommended for advance user
+
 ### Community
 Here are the places were the Parrot 3D project is the most active. Do not hesitate to ask if you have a question :
 * Facebook group: [facebook.com/groups/parrot3d](https://www.facebook.com/groups/parrot3d)
