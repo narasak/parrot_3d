@@ -26,7 +26,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce size of Duet 3 Box." />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update SKR 1.4 Control Box for reliable printing.">
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/adapter_filament_sensor.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/adapter_no_filament_sensor.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/extruder_base.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/extruder_front.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/extruder_idler.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/fan_duct.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/fan_support.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/filament_cover_reverse_bowden.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp/filament_sensor_lever.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +63,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/printed_parts/Extruder/stl/bondtech_sfp" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -141,13 +153,9 @@
       <workItem from="1605953558537" duration="52000" />
       <workItem from="1606103214787" duration="109000" />
       <workItem from="1606656249314" duration="21000" />
-    </task>
-    <task id="LOCAL-00017" summary="Initial Bill of Materials in Thai Language">
-      <created>1596910102402</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1596910102402</updated>
+      <workItem from="1607266389546" duration="171000" />
+      <workItem from="1607738344693" duration="639000" />
+      <workItem from="1608289087492" duration="329000" />
     </task>
     <task id="LOCAL-00018" summary="Initial Bill of Materials in Thai Language">
       <created>1596910167361</created>
@@ -485,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604995131504</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Update SKR 1.4 Control Box for reliable printing.">
+      <created>1607266536968</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1607266536969</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +532,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fixed Cable Holder Base for easy printing." />
     <MESSAGE value="Add Hermera Mount Parts" />
     <MESSAGE value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
     <MESSAGE value="Add belt tensioner idler holder set" />
@@ -542,36 +556,7 @@
     <MESSAGE value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
     <MESSAGE value="Reduce size of Duet 3 Box." />
     <MESSAGE value="Reduce size of Duet 3 Box" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reduce size of Duet 3 Box" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="496" y="193" key="#Plugins" timestamp="1602140803471">
-      <screen x="0" y="23" width="1792" height="1044" />
-    </state>
-    <state x="496" y="193" key="#Plugins/0.23.1792.1044@0.23.1792.1044" timestamp="1602140803471" />
-    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599984926208">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="536" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1599984926208" />
-    <state x="584" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602560585829">
-      <screen x="0" y="23" width="3440" height="1364" />
-    </state>
-    <state x="304" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1792.1044@0.23.1792.1044" timestamp="1602131206160" />
-    <state x="584" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.3440.1364@0.23.3440.1364" timestamp="1602560585829" />
-    <state x="179" y="101" key="MergeDialog" timestamp="1603722542141">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="179" y="101" key="MergeDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1603722542141" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604995132978">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604995132978" />
-    <state x="496" y="303" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1602134243988" />
-    <state x="952" y="389" key="Vcs.Push.Dialog.v2/0.23.3440.1364@0.23.3440.1364" timestamp="1602560528470" />
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603722469613">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1603722469613" />
-    <state x="1332" y="609" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3440.1364@0.23.3440.1364" timestamp="1602560564464" />
+    <MESSAGE value="Update SKR 1.4 Control Box for reliable printing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update SKR 1.4 Control Box for reliable printing." />
   </component>
 </project>
