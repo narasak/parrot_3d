@@ -1,4 +1,4 @@
-# Parrot 3D
+# Parrot 3D 1.1 (Is in progress)
 ![Parrot 3D Basic Kit](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_full_kit.jpg?raw=true)
 
 ### Introduction
@@ -11,6 +11,7 @@ Here are the features that explain why I decided to create another printer.
 * Single linear rail on both X-Axis and Y-Axis it provided easier setup, alignment, silent and supper smooth
 * Use more aluminum, more carbon fiber and less printed parts (3D printed parts can crack and are less reliable)
 * Support 4 types of Extruders with full build volumes (250 mm x 210 mm)
+    * Bondtech LGX FF Extruder
     * E3D Hemera Extruder
     * Bondtech Prusa MK3S Extruder
     * Bear Extruder (Designed by [Grégoire Saunier](https://github.com/gregsaun/bear_extruder_and_x_axis))
