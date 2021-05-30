@@ -1,4 +1,4 @@
-# Parrot 3D 1.1 (Is in progress)
+# Parrot 3D 1.1 (Release Candidate 1)
 ![Parrot 3D Basic Kit](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_full_kit.jpg?raw=true)
 
 ### Introduction
