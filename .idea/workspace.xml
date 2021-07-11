@@ -26,8 +26,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Initial Parrot 3D 1.1">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Parrot 3D 1.1 RC 1">
+      <change afterPath="$PROJECT_DIR$/printed_parts/extruder/bondtech_extruder/topplate_m10.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/extruder/bondtech_extruder/topplate_m6.stl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder/lgx_ff_mount.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder/lgx_ff_mount.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x-axis/lead_screw_nut_holder_x2.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/x-axis/lead_screw_nut_holder_x2.stl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +61,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/printed_parts/frame" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/printed_parts/frame" />
+      <recent name="$PROJECT_DIR$/printed_parts" />
+      <recent name="$PROJECT_DIR$/aluminum_cnc_parts" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl" />
-      <recent name="$PROJECT_DIR$/optional_printed_parts/Duet 3 Box" />
-      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/img" />
-      <recent name="$PROJECT_DIR$/printed_parts/Options/Duet 3 Box/STEP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP" />
@@ -151,13 +156,10 @@
       <workItem from="1614572107373" duration="16000" />
       <workItem from="1617684489555" duration="751000" />
       <workItem from="1617710781840" duration="2000" />
-    </task>
-    <task id="LOCAL-00019" summary="Add Logo of Parrot 3D">
-      <created>1597048116163</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1597048116163</updated>
+      <workItem from="1622378956637" duration="310000" />
+      <workItem from="1623124380621" duration="24000" />
+      <workItem from="1623124426763" duration="5000" />
+      <workItem from="1626005049069" duration="379000" />
     </task>
     <task id="LOCAL-00020" summary="Add print settings">
       <created>1597079985768</created>
@@ -495,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617684635336</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Parrot 3D 1.1 RC 1">
+      <created>1622379254976</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1622379254976</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +521,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="origin/dev" />
                       </list>
                     </value>
                   </entry>
@@ -527,7 +536,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D" />
     <MESSAGE value="Add belt tensioner idler holder set" />
     <MESSAGE value="Add x, y axis belt tensioner knob" />
     <MESSAGE value="Add STEP files for CNC Parts" />
@@ -552,6 +560,7 @@
     <MESSAGE value="Reduce size of Duet 3 Box" />
     <MESSAGE value="Update SKR 1.4 Control Box for reliable printing." />
     <MESSAGE value="Initial Parrot 3D 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Parrot 3D 1.1" />
+    <MESSAGE value="Parrot 3D 1.1 RC 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parrot 3D 1.1 RC 1" />
   </component>
 </project>
