@@ -26,15 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Parrot 3D 1.1 RC 2">
-      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_adjustable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_cable_holder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_idler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_leadscrew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_lgx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add rendering image">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,16 +56,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/printed_parts/frame" />
       <recent name="$PROJECT_DIR$/printed_parts" />
       <recent name="$PROJECT_DIR$/aluminum_cnc_parts" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP" />
@@ -162,13 +155,6 @@
       <workItem from="1623124380621" duration="24000" />
       <workItem from="1623124426763" duration="5000" />
       <workItem from="1626005049069" duration="2633000" />
-    </task>
-    <task id="LOCAL-00022" summary="Add cnc parts (stl files)">
-      <created>1597109735792</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1597109735792</updated>
     </task>
     <task id="LOCAL-00023" summary="Add cnc parts (stl files)">
       <created>1597109889597</created>
@@ -506,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626007928959</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Add rendering image">
+      <created>1626173588626</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1626173588627</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +531,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add x, y axis belt tensioner knob" />
     <MESSAGE value="Add STEP files for CNC Parts" />
     <MESSAGE value="Update document of CNC Parts" />
     <MESSAGE value="Update read me" />
@@ -563,6 +555,7 @@
     <MESSAGE value="Initial Parrot 3D 1.1" />
     <MESSAGE value="Parrot 3D 1.1 RC 1" />
     <MESSAGE value="Parrot 3D 1.1 RC 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parrot 3D 1.1 RC 2" />
+    <MESSAGE value="Add rendering image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add rendering image" />
   </component>
 </project>

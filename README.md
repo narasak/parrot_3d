@@ -19,7 +19,7 @@ Here are the features that explain why I decided to create another printer.
 
 ![Parrot 3D LGX Extruder](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_lgx.png)
 
-![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_v1_1_idler.png)
+![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_idler.png)
 * Open source by providing STL and DWG Drawing (For STEP files we will provide in the future)
 
 ### Firmware
