@@ -27,7 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Edit README.md">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,20 +155,6 @@
       <workItem from="1623124380621" duration="24000" />
       <workItem from="1623124426763" duration="5000" />
       <workItem from="1626005049069" duration="2633000" />
-    </task>
-    <task id="LOCAL-00024" summary="Fixed Cable Holder Base for easy printing.">
-      <created>1597121311134</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1597121311134</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Add Hermera Mount Parts">
-      <created>1597122499023</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1597122499023</updated>
     </task>
     <task id="LOCAL-00026" summary="Add PETG, PLA and Z-Ultrat Profiles of Simplify 3D">
       <created>1597827365542</created>
@@ -499,7 +485,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626173700949</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Edit README.md">
+      <created>1626173999313</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1626173999313</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Edit README.md">
+      <created>1626174074478</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1626174074479</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
