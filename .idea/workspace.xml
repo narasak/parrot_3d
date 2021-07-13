@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add rendering image">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Edit README.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,13 +155,6 @@
       <workItem from="1623124380621" duration="24000" />
       <workItem from="1623124426763" duration="5000" />
       <workItem from="1626005049069" duration="2633000" />
-    </task>
-    <task id="LOCAL-00023" summary="Add cnc parts (stl files)">
-      <created>1597109889597</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1597109889597</updated>
     </task>
     <task id="LOCAL-00024" summary="Fixed Cable Holder Base for easy printing.">
       <created>1597121311134</created>
@@ -499,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626173588627</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Edit README.md">
+      <created>1626173700949</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1626173700949</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,7 +531,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add STEP files for CNC Parts" />
     <MESSAGE value="Update document of CNC Parts" />
     <MESSAGE value="Update read me" />
     <MESSAGE value="Add Duet 3 enclosure to optional printed parts directory" />
@@ -556,6 +555,7 @@
     <MESSAGE value="Parrot 3D 1.1 RC 1" />
     <MESSAGE value="Parrot 3D 1.1 RC 2" />
     <MESSAGE value="Add rendering image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add rendering image" />
+    <MESSAGE value="Edit README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit README.md" />
   </component>
 </project>
