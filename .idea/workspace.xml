@@ -27,7 +27,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Parrot 3D 1.1 RC 2">
-      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/alu_heate_bed_carriage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/aluminum_cnc_parts/alu_heate_bed_carriage.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_adjustable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_cable_holder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_idler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_leadscrew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot_3d_v1_1_lgx.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +63,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aluminum_cnc_parts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/printed_parts/frame" />
       <recent name="$PROJECT_DIR$/printed_parts" />
       <recent name="$PROJECT_DIR$/aluminum_cnc_parts" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP" />

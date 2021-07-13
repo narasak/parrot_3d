@@ -1,5 +1,5 @@
 # Parrot 3D 1.1 (Release Candidate 2)
-![Parrot 3D Basic Kit](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_full_kit.jpg?raw=true)
+![Parrot 3D Basic Kit](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1.png?raw=true)
 
 ### Introduction
 The Parrot 3D is an open source 3D (fdm) printer with more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and reduce plastic parts for extreme precision frame.
@@ -17,9 +17,9 @@ Here are the features that explain why I decided to create another printer.
     * Bear Extruder (Designed by [Grégoire Saunier](https://github.com/gregsaun/bear_extruder_and_x_axis))
     * SFP Extruder (Designed by [Gerd Jentz](https://github.com/gerdj/RedBear/tree/master/SFP_Extruder?fbclid=IwAR3Uj-65sifwO2yWpbCwoKYdIusArH3cBH_lzmMJN2WZawB7Bh3vTl2CO8A))
 
-![Parrot 3D Hemera Extruder](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_hemera.jpg)
+![Parrot 3D LGX Extruder](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_lgx.png)
 
-![Parrot 3D Y-Axis](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_y-axis.jpg)
+![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/master/img/parrot_3d_v1_1_idler.png)
 * Open source by providing STL and DWG Drawing (For STEP files we will provide in the future)
 
 ### Firmware
