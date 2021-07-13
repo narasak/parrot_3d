@@ -17,6 +17,8 @@ Here are the features that explain why I decided to create another printer.
     * Bear Extruder (Designed by [Grégoire Saunier](https://github.com/gregsaun/bear_extruder_and_x_axis))
     * SFP Extruder (Designed by [Gerd Jentz](https://github.com/gerdj/RedBear/tree/master/SFP_Extruder?fbclid=IwAR3Uj-65sifwO2yWpbCwoKYdIusArH3cBH_lzmMJN2WZawB7Bh3vTl2CO8A))
 
+![Parrot 3D Front](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_front.png)
+
 ![Parrot 3D LGX Extruder](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_lgx.png)
 
 ![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_idler.png)
