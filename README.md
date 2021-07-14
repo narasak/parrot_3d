@@ -17,12 +17,18 @@ Here are the features that explain why I decided to create another printer.
     * Bear Extruder (Designed by [Grégoire Saunier](https://github.com/gregsaun/bear_extruder_and_x_axis))
     * SFP Extruder (Designed by [Gerd Jentz](https://github.com/gerdj/RedBear/tree/master/SFP_Extruder?fbclid=IwAR3Uj-65sifwO2yWpbCwoKYdIusArH3cBH_lzmMJN2WZawB7Bh3vTl2CO8A))
 
+![Parrot 3D Extruder Support Front](https://github.com/narasak/parrot_3d/blob/dev/img/parrot3d_v1_1_extruder_support_front.png)
+
+![Parrot 3D Extruder Support Back](https://github.com/narasak/parrot_3d/blob/dev/img/parrot3d_v1_1_extruder_support_back.png)
+
+### Highlight Image
+
 ![Parrot 3D Front](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_front.png)
 
 ![Parrot 3D LGX Extruder](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_lgx.png)
 
 ![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_idler.png)
-* Open source by providing STL and DWG Drawing (For STEP files we will provide in the future)
+* Open source by providing STEP file
 
 ### Firmware
 We made custom firmware for Parrot 3D based on popular well known firmware, you can choose firmware that you like.
