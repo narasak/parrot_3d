@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce adxl345 screw holder from m3 to m2.5">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Prusa extruder support">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder" />
       <recent name="$PROJECT_DIR$/printed_parts/frame" />
       <recent name="$PROJECT_DIR$/printed_parts" />
       <recent name="$PROJECT_DIR$/aluminum_cnc_parts" />
@@ -155,8 +155,8 @@
       <workItem from="1623124380621" duration="24000" />
       <workItem from="1623124426763" duration="5000" />
       <workItem from="1626005049069" duration="2633000" />
-      <workItem from="1626183945057" duration="45000" />
-      <workItem from="1626235758096" duration="5000" />
+      <workItem from="1626274674443" duration="301000" />
+      <workItem from="1626277922878" duration="104000" />
     </task>
     <task id="LOCAL-00029" summary="Add STEP files for CNC Parts">
       <created>1598111944099</created>
@@ -494,12 +494,12 @@
       <option name="project" value="LOCAL" />
       <updated>1626175302370</updated>
     </task>
-    <task id="LOCAL-00077" summary="Reduce adxl345 screw holder from m3 to m2.5">
-      <created>1626183979450</created>
+    <task id="LOCAL-00077" summary="Add Prusa extruder support">
+      <created>1626274722531</created>
       <option name="number" value="00077" />
       <option name="presentableId" value="LOCAL-00077" />
       <option name="project" value="LOCAL" />
-      <updated>1626183979450</updated>
+      <updated>1626274722531</updated>
     </task>
     <option name="localTasksCounter" value="78" />
     <servers />
@@ -557,7 +557,7 @@
     <MESSAGE value="Add rendering image" />
     <MESSAGE value="Edit README.md" />
     <MESSAGE value="Add img" />
-    <MESSAGE value="Reduce adxl345 screw holder from m3 to m2.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reduce adxl345 screw holder from m3 to m2.5" />
+    <MESSAGE value="Add Prusa extruder support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Prusa extruder support" />
   </component>
 </project>
