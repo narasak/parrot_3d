@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Prusa extruder support">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce adxl345 screw holder from m3 to m2.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +157,7 @@
       <workItem from="1626005049069" duration="2633000" />
       <workItem from="1626274674443" duration="301000" />
       <workItem from="1626277922878" duration="104000" />
+      <workItem from="1627525365801" duration="320000" />
     </task>
     <task id="LOCAL-00029" summary="Add STEP files for CNC Parts">
       <created>1598111944099</created>
