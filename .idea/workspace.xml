@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Reduce adxl345 screw holder from m3 to m2.5">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add filament guide to optional printed parts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,23 +56,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/optional_printed_parts/bowden_guide" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/optional_printed_parts/bowden_guide" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_type2_extruder" />
       <recent name="$PROJECT_DIR$/printed_parts/frame" />
       <recent name="$PROJECT_DIR$/printed_parts" />
-      <recent name="$PROJECT_DIR$/aluminum_cnc_parts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/optional_printed_parts/bowden_guide/stl" />
       <recent name="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder/SFP" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder" />
-      <recent name="$PROJECT_DIR$/cnc_parts/STEP/X-Axis" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -157,14 +157,8 @@
       <workItem from="1626005049069" duration="2633000" />
       <workItem from="1626274674443" duration="301000" />
       <workItem from="1626277922878" duration="104000" />
-      <workItem from="1627525365801" duration="320000" />
-    </task>
-    <task id="LOCAL-00029" summary="Add STEP files for CNC Parts">
-      <created>1598111944099</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1598111944099</updated>
+      <workItem from="1627525365801" duration="453000" />
+      <workItem from="1627525861093" duration="85000" />
     </task>
     <task id="LOCAL-00030" summary="Update document of CNC Parts">
       <created>1598114168353</created>
@@ -502,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626274722531</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Add filament guide to optional printed parts">
+      <created>1627525808588</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1627525808588</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +535,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add Duet 3 enclosure to optional printed parts directory" />
     <MESSAGE value="Add STEP files of printed parts (In progress)" />
     <MESSAGE value="Reduce size of duet 3 box for print on 220x220 bed size" />
     <MESSAGE value="Prepare to release version 1" />
@@ -559,6 +559,7 @@
     <MESSAGE value="Edit README.md" />
     <MESSAGE value="Add img" />
     <MESSAGE value="Add Prusa extruder support" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Prusa extruder support" />
+    <MESSAGE value="Add filament guide to optional printed parts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add filament guide to optional printed parts" />
   </component>
 </project>
