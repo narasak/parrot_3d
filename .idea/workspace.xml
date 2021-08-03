@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add accelerometer holder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add psu, display, board controller box" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,13 +159,7 @@
       <workItem from="1627525861093" duration="85000" />
       <workItem from="1627830487581" duration="296000" />
       <workItem from="1627866597993" duration="5000" />
-    </task>
-    <task id="LOCAL-00032" summary="Update read me">
-      <created>1598116076690</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1598116076690</updated>
+      <workItem from="1627954384209" duration="717000" />
     </task>
     <task id="LOCAL-00033" summary="Update read me">
       <created>1599444980839</created>
@@ -505,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627830725450</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Add psu, display, board controller box">
+      <created>1627954475727</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1627954475728</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +536,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Prepare to release version 1" />
     <MESSAGE value="Add reverse bowden" />
     <MESSAGE value="Update image" />
     <MESSAGE value="Update README" />
@@ -562,6 +560,7 @@
     <MESSAGE value="Add filament guide to optional printed parts" />
     <MESSAGE value="Add sensor cover 1.8in thread for bondtech" />
     <MESSAGE value="Add accelerometer holder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add accelerometer holder" />
+    <MESSAGE value="Add psu, display, board controller box" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add psu, display, board controller box" />
   </component>
 </project>
