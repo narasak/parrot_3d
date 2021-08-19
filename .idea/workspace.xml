@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add psu, display, board controller box" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,14 +159,7 @@
       <workItem from="1627525861093" duration="85000" />
       <workItem from="1627830487581" duration="296000" />
       <workItem from="1627866597993" duration="5000" />
-      <workItem from="1627954384209" duration="717000" />
-    </task>
-    <task id="LOCAL-00033" summary="Update read me">
-      <created>1599444980839</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1599444980839</updated>
+      <workItem from="1627954384209" duration="1066000" />
     </task>
     <task id="LOCAL-00034" summary="Add Duet 3 enclosure to optional printed parts directory">
       <created>1599980504151</created>
@@ -504,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627954475728</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Update README.md">
+      <created>1627955389893</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1627955389893</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +542,6 @@
     <MESSAGE value="Add Prusa LCD Display and Jig Tools for easily build frame and linear rail" />
     <MESSAGE value="Add Prusa Einsy Box" />
     <MESSAGE value="Update SKR 1.4 Control Box" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Add prusa delta psu box" />
     <MESSAGE value="Update Prusa Einsy Box" />
     <MESSAGE value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
@@ -561,6 +560,7 @@
     <MESSAGE value="Add sensor cover 1.8in thread for bondtech" />
     <MESSAGE value="Add accelerometer holder" />
     <MESSAGE value="Add psu, display, board controller box" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add psu, display, board controller box" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
