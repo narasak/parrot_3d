@@ -10,9 +10,11 @@ Here are the features that explain why I decided to create another printer.
 * 3030 Aluminium Extrusions it is strong and rigid frame with easy to build
 * Single linear rail on both X-Axis and Y-Axis it provided easier setup, alignment, silent and supper smooth
 * Use more precision CNC aluminum and less printed parts (3D printed parts can crack and are less reliable)
-* Support 6 types of Extruders with full build volumes (250 mm x 210 mm)
+* Support 8 types of Extruders with full build volumes (250 mm x 210 mm)
     * Bondtech LGX FF Extruder
-    * Bondtech Prusa MK3S Extruder
+    * Bondtech LGX Mosquito Extruder
+    * Bondtech Prusa MK3S (E3D) Extruder
+    * Bondtech Prusa MK3S (Mosquito) Extruder
     * E3D Hemera Extruder
     * Original Prusa Extruder
     * Bear Extruder (Designed by [Grégoire Saunier](https://github.com/gregsaun/bear_extruder_and_x_axis))
