@@ -26,11 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Minor update all board controller box">
-      <change afterPath="$PROJECT_DIR$/cad/parrot_3d_v1.1.f3z" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add cad files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,14 +164,8 @@
       <workItem from="1627954384209" duration="1066000" />
       <workItem from="1629352555831" duration="91000" />
       <workItem from="1629598520818" duration="96000" />
-      <workItem from="1631463139147" duration="300000" />
-    </task>
-    <task id="LOCAL-00035" summary="Add Duet 3 enclosure to optional printed parts directory">
-      <created>1599980530110</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1599980530110</updated>
+      <workItem from="1631463139147" duration="499000" />
+      <workItem from="1631501326915" duration="5000" />
     </task>
     <task id="LOCAL-00036" summary="Add Duet 3 enclosure to optional printed parts directory">
       <created>1599981796291</created>
@@ -512,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629352616289</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Add cad files">
+      <created>1631463544716</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1631463544716</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update image" />
     <MESSAGE value="Update README" />
     <MESSAGE value="Add Prusa LCD Display and Jig Tools for easily build frame and linear rail" />
     <MESSAGE value="Add Prusa Einsy Box" />
@@ -569,6 +566,7 @@
     <MESSAGE value="Add psu, display, board controller box" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Minor update all board controller box" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor update all board controller box" />
+    <MESSAGE value="Add cad files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add cad files" />
   </component>
 </project>
