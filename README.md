@@ -33,6 +33,11 @@ Here are the features that explain why I decided to create another printer.
 ![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/dev/img/parrot_3d_v1_1_idler.png)
 * Open source by providing STEP file
 
+### Aftermarket product support
+* Prusa MMU2S Adapter [Product Page](https://shop.prusa3d.com/en/upgrades/183-original-prusa-i3-mmu2s-upgrade-kit-for-mk25-mk3s.html)
+* RMU MK3 Adapter [Product Page](https://filamentbuffer.co.uk)
+* Reverse Bowden
+
 ### Firmware
 We made custom firmware for Parrot 3D based on popular well known firmware, you can choose firmware that you like.
 
