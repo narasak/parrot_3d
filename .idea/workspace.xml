@@ -26,15 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add adapter for RMU MK3">
-      <change afterPath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_base.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_cover.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_duct.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_fan_support.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
-    </list>
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Bondtech LGX Mosquito Extruder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,14 +166,7 @@
       <workItem from="1631501326915" duration="5000" />
       <workItem from="1632731199478" duration="92000" />
       <workItem from="1632829584538" duration="6000" />
-      <workItem from="1633167005430" duration="355000" />
-    </task>
-    <task id="LOCAL-00037" summary="Add Duet 3 enclosure to optional printed parts directory">
-      <created>1599981890374</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1599981890374</updated>
+      <workItem from="1633167005430" duration="456000" />
     </task>
     <task id="LOCAL-00038" summary="Add Duet 3 enclosure to optional printed parts directory">
       <created>1599981957477</created>
@@ -519,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632731256857</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Add Bondtech LGX Mosquito Extruder">
+      <created>1633167440072</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1633167440073</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +543,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add Prusa LCD Display and Jig Tools for easily build frame and linear rail" />
     <MESSAGE value="Add Prusa Einsy Box" />
     <MESSAGE value="Update SKR 1.4 Control Box" />
     <MESSAGE value="Add prusa delta psu box" />
@@ -576,6 +567,7 @@
     <MESSAGE value="Minor update all board controller box" />
     <MESSAGE value="Add cad files" />
     <MESSAGE value="Add adapter for RMU MK3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add adapter for RMU MK3" />
+    <MESSAGE value="Add Bondtech LGX Mosquito Extruder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Bondtech LGX Mosquito Extruder" />
   </component>
 </project>
