@@ -26,7 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Bondtech LGX Mosquito Extruder" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add 3mm bore Idler holder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,13 +169,8 @@
       <workItem from="1632731199478" duration="92000" />
       <workItem from="1632829584538" duration="6000" />
       <workItem from="1633167005430" duration="456000" />
-    </task>
-    <task id="LOCAL-00038" summary="Add Duet 3 enclosure to optional printed parts directory">
-      <created>1599981957477</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1599981957477</updated>
+      <workItem from="1633179097041" duration="27000" />
+      <workItem from="1633258671114" duration="5000" />
     </task>
     <task id="LOCAL-00039" summary="Add STEP files of printed parts (In progress)">
       <created>1599986275674</created>
@@ -511,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633167440073</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Add 3mm bore Idler holder">
+      <created>1633179114188</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1633179114189</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +547,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add Prusa Einsy Box" />
     <MESSAGE value="Update SKR 1.4 Control Box" />
     <MESSAGE value="Add prusa delta psu box" />
     <MESSAGE value="Update Prusa Einsy Box" />
@@ -568,6 +571,7 @@
     <MESSAGE value="Add cad files" />
     <MESSAGE value="Add adapter for RMU MK3" />
     <MESSAGE value="Add Bondtech LGX Mosquito Extruder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Bondtech LGX Mosquito Extruder" />
+    <MESSAGE value="Add 3mm bore Idler holder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 3mm bore Idler holder" />
   </component>
 </project>
