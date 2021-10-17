@@ -172,21 +172,7 @@
       <workItem from="1633167005430" duration="456000" />
       <workItem from="1633179097041" duration="27000" />
       <workItem from="1633258671114" duration="5000" />
-      <workItem from="1634450384088" duration="325000" />
-    </task>
-    <task id="LOCAL-00040" summary="Update README.md">
-      <created>1600004907977</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1600004907977</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Reduce size of duet 3 box for print on 220x220 bed size">
-      <created>1600086441689</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1600086441689</updated>
+      <workItem from="1634450384088" duration="676000" />
     </task>
     <task id="LOCAL-00042" summary="Prepare to release version 1">
       <created>1601885775186</created>
@@ -517,7 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634450415549</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Final V1.1">
+      <created>1634450717538</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1634450717538</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Add support Bondtech® LGX® for MK3S &amp; Mosquito®">
+      <created>1634450782480</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1634450782480</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +549,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add prusa delta psu box" />
     <MESSAGE value="Update Prusa Einsy Box" />
     <MESSAGE value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
     <MESSAGE value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
@@ -573,6 +572,7 @@
     <MESSAGE value="Add adapter for RMU MK3" />
     <MESSAGE value="Add Bondtech LGX Mosquito Extruder" />
     <MESSAGE value="Add 3mm bore Idler holder" />
+    <MESSAGE value="Final V1.1" />
     <MESSAGE value="Add support Bondtech® LGX® for MK3S &amp; Mosquito®" />
     <option name="LAST_COMMIT_MESSAGE" value="Add support Bondtech® LGX® for MK3S &amp; Mosquito®" />
   </component>
