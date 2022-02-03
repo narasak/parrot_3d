@@ -26,9 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add support Bondtech® LGX® for MK3S &amp; Mosquito®">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Final V1.1 Readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,14 +171,8 @@
       <workItem from="1633167005430" duration="456000" />
       <workItem from="1633179097041" duration="27000" />
       <workItem from="1633258671114" duration="5000" />
-      <workItem from="1634450384088" duration="676000" />
-    </task>
-    <task id="LOCAL-00042" summary="Prepare to release version 1">
-      <created>1601885775186</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1601885775186</updated>
+      <workItem from="1634450384088" duration="715000" />
+      <workItem from="1634453595954" duration="8000" />
     </task>
     <task id="LOCAL-00043" summary="Prepare to release version 1">
       <created>1601887747009</created>
@@ -517,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634450782480</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Add Final V1.1 Readme">
+      <created>1634451073721</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1634451073721</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +549,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update Prusa Einsy Box" />
     <MESSAGE value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
     <MESSAGE value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
     <MESSAGE value="Reduce size of Duet 3 Box." />
@@ -574,6 +573,7 @@
     <MESSAGE value="Add 3mm bore Idler holder" />
     <MESSAGE value="Final V1.1" />
     <MESSAGE value="Add support Bondtech® LGX® for MK3S &amp; Mosquito®" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add support Bondtech® LGX® for MK3S &amp; Mosquito®" />
+    <MESSAGE value="Add Final V1.1 Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Final V1.1 Readme" />
   </component>
 </project>
