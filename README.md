@@ -1,5 +1,9 @@
 # Parrot 3D 1.1
 ![Parrot 3D Basic Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1.png?raw=true)
+![Parrot 3D 1.1 Real Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_real_1.jpg?raw=true)
+![Parrot 3D 1.1 Real Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_real_2.jpg?raw=true)
+![Parrot 3D 1.1 Real Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_real_3.jpg?raw=true)
+![Parrot 3D 1.1 Real Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_real_4.jpg?raw=true)
 
 ### Introduction
 The Parrot 3D is an open source 3D (fdm) printer with more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and reduce plastic parts for extreme precision frame.
@@ -20,17 +24,17 @@ Here are the features that explain why I decided to create another printer.
     * Bear Extruder (Designed by [Grégoire Saunier](https://github.com/gregsaun/bear_extruder_and_x_axis))
     * SFP Extruder (Designed by [Gerd Jentz](https://github.com/gerdj/RedBear/tree/master/SFP_Extruder?fbclid=IwAR3Uj-65sifwO2yWpbCwoKYdIusArH3cBH_lzmMJN2WZawB7Bh3vTl2CO8A))
 
-![Parrot 3D Extruder Support Front](https://github.com/narasak/parrot_3d/blob/main/img/parrot3d_v1_1_extruder_support_front.png)
+![Parrot 3D Extruder Support Front](https://github.com/narasak/parrot_3d/blob/main/img/parrot3d_v1_1_extruder_support_front.png?raw=true)
 
-![Parrot 3D Extruder Support Back](https://github.com/narasak/parrot_3d/blob/main/img/parrot3d_v1_1_extruder_support_back.png)
+![Parrot 3D Extruder Support Back](https://github.com/narasak/parrot_3d/blob/main/img/parrot3d_v1_1_extruder_support_back.png?raw=true)
 
 ### Highlight Image
 
-![Parrot 3D Front](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_front.png)
+![Parrot 3D Front](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_front.png?raw=true)
 
-![Parrot 3D LGX Extruder](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_lgx.png)
+![Parrot 3D LGX Extruder](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_lgx.png?raw=true)
 
-![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_idler.png)
+![Parrot 3D X-Axis](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_idler.png?raw=true)
 * Open source by providing STEP file
 
 ### Aftermarket product support
