@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add Final V1.1 Readme">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="๊Minor update for SKR 1.4 Box and LGX FF Bltouch with ADXL345 Holder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +37,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1fZvg5q9DNDVduZNfcYCIuf8lF0" />
   <component name="ProjectLevelVcsManager">
@@ -56,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/optional_printed_parts/bowden_guide" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -173,13 +176,8 @@
       <workItem from="1633258671114" duration="5000" />
       <workItem from="1634450384088" duration="715000" />
       <workItem from="1634453595954" duration="8000" />
-    </task>
-    <task id="LOCAL-00043" summary="Prepare to release version 1">
-      <created>1601887747009</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1601887747009</updated>
+      <workItem from="1643897205575" duration="350000" />
+      <workItem from="1643897564770" duration="75000" />
     </task>
     <task id="LOCAL-00044" summary="Add reverse bowden">
       <created>1601995304125</created>
@@ -517,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634451073721</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="๊Minor update for SKR 1.4 Box and LGX FF Bltouch with ADXL345 Holder">
+      <created>1643897532945</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1643897532946</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,11 +550,9 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fixed X, Y length for past Prusa Firmware self test and calibration." />
     <MESSAGE value="Add MeanWell HRP-300-24 Box in Optional Printed Parts" />
     <MESSAGE value="Reduce size of Duet 3 Box." />
     <MESSAGE value="Reduce size of Duet 3 Box" />
@@ -574,6 +577,7 @@
     <MESSAGE value="Final V1.1" />
     <MESSAGE value="Add support Bondtech® LGX® for MK3S &amp; Mosquito®" />
     <MESSAGE value="Add Final V1.1 Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Final V1.1 Readme" />
+    <MESSAGE value="๊Minor update for SKR 1.4 Box and LGX FF Bltouch with ADXL345 Holder" />
+    <option name="LAST_COMMIT_MESSAGE" value="๊Minor update for SKR 1.4 Box and LGX FF Bltouch with ADXL345 Holder" />
   </component>
 </project>
