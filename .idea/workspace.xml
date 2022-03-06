@@ -26,8 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="๊Minor update for SKR 1.4 Box and LGX FF Bltouch with ADXL345 Holder">
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/อ่านฉัน.md" beforeDir="false" afterPath="$PROJECT_DIR$/อ่านฉัน.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -178,13 +181,7 @@
       <workItem from="1634453595954" duration="8000" />
       <workItem from="1643897205575" duration="350000" />
       <workItem from="1643897564770" duration="75000" />
-    </task>
-    <task id="LOCAL-00044" summary="Add reverse bowden">
-      <created>1601995304125</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1601995304125</updated>
+      <workItem from="1645342203251" duration="8000" />
     </task>
     <task id="LOCAL-00045" summary="Add reverse bowden">
       <created>1602000237924</created>
@@ -522,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643897532946</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Update README.md">
+      <created>1644724616933</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1644724616933</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +572,6 @@
     <MESSAGE value="Add sensor cover 1.8in thread for bondtech" />
     <MESSAGE value="Add accelerometer holder" />
     <MESSAGE value="Add psu, display, board controller box" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Minor update all board controller box" />
     <MESSAGE value="Add cad files" />
     <MESSAGE value="Add adapter for RMU MK3" />
@@ -578,6 +581,7 @@
     <MESSAGE value="Add support Bondtech® LGX® for MK3S &amp; Mosquito®" />
     <MESSAGE value="Add Final V1.1 Readme" />
     <MESSAGE value="๊Minor update for SKR 1.4 Box and LGX FF Bltouch with ADXL345 Holder" />
-    <option name="LAST_COMMIT_MESSAGE" value="๊Minor update for SKR 1.4 Box and LGX FF Bltouch with ADXL345 Holder" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>

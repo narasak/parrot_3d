@@ -1,4 +1,6 @@
 # Parrot 3D 1.1
+https://github.com/narasak/parrot_3d
+
 ![Parrot 3D Basic Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1.png?raw=true)
 ![Parrot 3D 1.1 Real Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_real_1.jpg?raw=true)
 ![Parrot 3D 1.1 Real Kit](https://github.com/narasak/parrot_3d/blob/main/img/parrot_3d_v1_1_real_2.jpg?raw=true)
