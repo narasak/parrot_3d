@@ -26,7 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add LGX ACE Mosquito Printhead" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Add LGX ACE Mosquito Printhead">
+      <change afterPath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/step/LGX ACE Mosquito v5.iges" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/stl/lgx_ace_fan_mount.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/stl/lgx_ace_fan_mount.stl" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,13 +187,8 @@
       <workItem from="1647744851770" duration="147000" />
       <workItem from="1647764838524" duration="3000" />
       <workItem from="1648289776002" duration="86000" />
-    </task>
-    <task id="LOCAL-00048" summary="Update README">
-      <created>1602145873693</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1602145873693</updated>
+      <workItem from="1648293035911" duration="72000" />
+      <workItem from="1648296670812" duration="600000" />
     </task>
     <task id="LOCAL-00049" summary="Add Prusa LCD Display and Jig Tools for easily build frame and linear rail">
       <created>1602158822197</created>
@@ -527,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648289849591</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Add LGX ACE Mosquito Printhead">
+      <created>1648293042432</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1648293042432</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
