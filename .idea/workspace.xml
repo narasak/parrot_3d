@@ -192,13 +192,9 @@
       <workItem from="1651040556195" duration="613000" />
       <workItem from="1651045426307" duration="4000" />
       <workItem from="1651391220966" duration="702000" />
-    </task>
-    <task id="LOCAL-00051" summary="Update Prusa Einsy Box">
-      <created>1602751040572</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1602751040572</updated>
+      <workItem from="1654185280157" duration="195000" />
+      <workItem from="1654326063197" duration="53000" />
+      <workItem from="1654326141441" duration="182000" />
     </task>
     <task id="LOCAL-00052" summary="Update SKR 1.4 Control Box">
       <created>1602751496523</created>
@@ -536,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650554632605</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Add SKR 3 EZ Board support">
+      <created>1654185320698</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1654185320699</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +572,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Initial Parrot 3D 1.1" />
     <MESSAGE value="Parrot 3D 1.1 RC 1" />
     <MESSAGE value="Parrot 3D 1.1 RC 2" />
     <MESSAGE value="Add rendering image" />
@@ -594,7 +596,8 @@
     <MESSAGE value="Add Waveshare 4.3inch DSI LCD mount" />
     <MESSAGE value="Add LGX ACE Mosquito Printhead" />
     <MESSAGE value="Add Final Design Mounting Plate for LGX ACE Mosquito Printhead" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Final Design Mounting Plate for LGX ACE Mosquito Printhead" />
+    <MESSAGE value="Add SKR 3 EZ Board support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add SKR 3 EZ Board support" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
