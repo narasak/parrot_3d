@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update LGX ACE BLTouch adjustable mounting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,15 +52,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/narasak.man/Library/Mobile Documents/com~apple~CloudDocs/Documents/WebstormProjects/parrot_3d&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/narasak.man/Documents/WebstormProjects/parrot_3d",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_extruder" />
@@ -195,13 +193,7 @@
       <workItem from="1654185280157" duration="195000" />
       <workItem from="1654326063197" duration="53000" />
       <workItem from="1654326141441" duration="182000" />
-    </task>
-    <task id="LOCAL-00052" summary="Update SKR 1.4 Control Box">
-      <created>1602751496523</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1602751496523</updated>
+      <workItem from="1655468463012" duration="82000" />
     </task>
     <task id="LOCAL-00053" summary="Update README.md">
       <created>1602823417202</created>
@@ -539,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654185320699</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Update LGX ACE BLTouch adjustable mounting">
+      <created>1655468534459</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1655468534459</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +571,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Parrot 3D 1.1 RC 1" />
     <MESSAGE value="Parrot 3D 1.1 RC 2" />
     <MESSAGE value="Add rendering image" />
     <MESSAGE value="Edit README.md" />
@@ -597,7 +595,8 @@
     <MESSAGE value="Add LGX ACE Mosquito Printhead" />
     <MESSAGE value="Add Final Design Mounting Plate for LGX ACE Mosquito Printhead" />
     <MESSAGE value="Add SKR 3 EZ Board support" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add SKR 3 EZ Board support" />
+    <MESSAGE value="Update LGX ACE BLTouch adjustable mounting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update LGX ACE BLTouch adjustable mounting" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
