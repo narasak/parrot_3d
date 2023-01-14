@@ -27,8 +27,10 @@ Here are the features that explain why I decided to create another printer.
 ### Highlight Image
 
 ![Parrot 3D MK II X-Axis](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-x-axis.png?raw=true)
+![Parrot 3D MK II X-Axis](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-x-axis-2.png?raw=true)
 
 ![Parrot 3D MK II Y-Axis](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-y-axis.png?raw=true)
+![Parrot 3D MK II Y-Axis](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-y-axis-2.png?raw=true)
 
 ![Parrot 3D MK II Z-Axis](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-z-axis.png?raw=true)
 
