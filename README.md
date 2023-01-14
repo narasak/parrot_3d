@@ -34,6 +34,11 @@ Here are the features that explain why I decided to create another printer.
 
 ![Parrot 3D MK II Z-Axis](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-z-axis.png?raw=true)
 
+![Parrot 3D MK II LGX-ACE](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-lgx-ace.png?raw=true)
+![Parrot 3D MK II LGX-ACE](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-lgx-ace-2.png?raw=true)
+![Parrot 3D MK II LGX-ACE](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-lgx-ace-3.png?raw=true)
+![Parrot 3D MK II LGX-ACE](https://github.com/narasak/parrot_3d/blob/mk2/img/parrot3d-mkII-lgx-ace-4.png?raw=true)
+
 * Open source by providing STEP file
 
 ### Aftermarket product support
