@@ -26,7 +26,220 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update LGX ACE BLTouch adjustable mounting" />
+    <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Update LGX ACE BLTouch adjustable mounting">
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-x-axis-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-x-axis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-y-axis-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-y-axis-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-y-axis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-z-axis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/step/end-cap.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/step/rubber-feet.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/step/wiring-cable-lock.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/step/z-axis-limit-left.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/step/z-axis-limit-right.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/stl/end-cap-logo-x6.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/stl/end-cap-x6.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/stl/rubber-feet-x4.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/stl/wiring-cable-lock.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/stl/z-axis-limit-left.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/frame/stl/z-axis-limit-right.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/adxl345-spacer.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/bltouch-adxl345-holder.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/fan-mount-adxl345-holder.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/fan-support.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/lgx-ace-mount.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/palette-2-adapter.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/pinda-holder.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/adxl345-spacer.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/bltouch-adxl345-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/fan-mount-adxl345-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/fan-support.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/lgx-ace-mount.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/palette-2-adapter.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/pinda-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/2gt-20t-idler-holder.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/2gt-cover-spacer.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/2gt-front-cover-spacer.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/cable-holder.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/cable-management-base.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/cable-management-cover.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/cable-management-top-cover.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/lead-screw-holder-left.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/lead-screw-holder-right.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/motor-cover.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/x-axis-steper-motor-spacer.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/step/x-belt-holder.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/2gt-20t-idler-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/2gt-cover-spacer.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/2gt-front-cover-spacer.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/cable-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/cable-management-base.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/cable-management-cover.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/cable-management-top-cover.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/lead-screw-holder-left.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/lead-screw-holder-right.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/motor-cover.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/x-axis-steper-motor-spacer.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/x-belt-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/step/y-belt-holder.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/step/y-idler-mount.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/step/y-idler-tensioner 2gt-20t-b3.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/step/y-motor-mount.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/stl/y-belt-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/stl/y-idler-mount.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/stl/y-idler-tensioner 2gt-20t-b3.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/y_axis/stl/y-motor-mount.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/z_axis/step/z-leadscrew-cap.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/z_axis/step/z-motor-mount.step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/z_axis/stl/z-leadscrew-cap.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/z_axis/stl/z-motor-mount_x2.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/alu_heate_bed_carriage.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/alu_heate_bed_carriage.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/bondtech_and_sfp_extruder_plate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/bondtech_and_sfp_extruder_plate.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/lgx_and_hemera_extruder_plate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/lgx_and_hemera_extruder_plate.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/lgx_and_hemera_extruder_plate_v2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/lgx_and_hemera_extruder_plate_v2.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/x-axis_aluminum_plate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/x-axis_aluminum_plate.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/x-axis_idler_holder_cover_x2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/x-axis_idler_holder_cover_x2.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/x-axis_slide_plate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/x-axis_slide_plate.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/y-axis_motor_plate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/y-axis_motor_plate.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/y-axis_plate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/y-axis_plate.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/y-axis_support_plate.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/y-axis_support_plate.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/z-axis_limit_plate_x2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluminum_cnc_parts/z-axis_limit_plate_x2.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cad/parrot_3d_v1.1.f3z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cad/parrot_3d_v1.1.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot3d_v1_1_extruder_support_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot3d_v1_1_extruder_support_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_adjustable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_bed_carriage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_cable_holder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_idler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_leadscrew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_lgx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_real_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_real_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_real_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_real_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parrot_3d_v1_1_y_axis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/idler/3mm_bore_idler_holder_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/prusa_mmu2s_holder/stl/mmu2_frame_holder.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/reverse_bowden/stl/3030_mount_pc4_m10_long.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/reverse_bowden/stl/3030_mount_pc4_m10_medium.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/reverse_bowden/stl/3030_mount_pc4_m10_short.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/reverse_bowden/stl/3030_mount_pc4_m10_ultra_long.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/rmu_mk3_holder/stl/rmu_mk3_lower.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional_printed_parts/rmu_mk3_holder/stl/rmu_mk3_upper.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/accelerometer/lgx_ff_adxl345_holder.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/accelerometer/lgx_ff_bltouch_adxl345.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/accelerometer/lgx_ff_bltouch_lis3dsh.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/accelerometer/lgx_ff_lis3dh_holder.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/duet_3_m6hc.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/duet_3_m6hc/cable_holders_long.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/duet_3_m6hc/duet_3_box.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/duet_3_m6hc/duet_3_lid.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/duet_3_m6hc/raspberry_pi_4_model_b_box.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/duet_3_m6hc/raspberry_pi_4_model_b_lid.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/einsy_rambo.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/einsy_rambo/cable_lock_long.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/einsy_rambo/cable_lock_short.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/einsy_rambo/einsy_box.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/einsy_rambo/einsy_lid.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/skr_1.4.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/skr_1.4/cable_holder_long.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/skr_1.4/cable_holder_middle.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/skr_1.4/cable_holder_short.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/skr_1.4/skr_1.4_box.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/skr_1.4/skr_1.4_lid.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/board_controller/skr_3_ez.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/btt_tft35/step/lcd_assemply.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/btt_tft35/stl/lcd_cover.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/btt_tft35/stl/lcd_cover_bracket.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/prusa_lcd_display/step/prusa_lcd_display.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/prusa_lcd_display/stl/prusa_lcd_cover.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/prusa_lcd_display/stl/prusa_lcd_cover_bracket.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/prusa_lcd_display/stl/prusa_lcd_knob.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/waveshare_4_3inch_dsi_lcd/step/waveshare_4_3inch_dsi_lcd.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/waveshare_4_3inch_dsi_lcd/stl/lcd_bracket.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/display/waveshare_4_3inch_dsi_lcd/stl/lcd_cover.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/all_extruder/cable_holder.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/all_extruder/cable_holder_stand.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/all_extruder/x-axis_belt_holder.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/bondtech_extruder/sensor_cover_1_8in_thread.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/bondtech_extruder/topplate_m10.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/bondtech_extruder/topplate_m6.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/hemera_extruder/bl-touch_mount.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/hemera_extruder/cooling_fan_plate.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/hemera_extruder/fan_screw_spacer.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/hemera_extruder/fan_shroud.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/hemera_extruder/pinda_2_sensor_mount.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/step/lgx_ace_bltouch.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/step/lgx_ace_mosquito.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/stl/lgx_ace_bltouch.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/stl/lgx_ace_fan_duct.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/stl/lgx_ace_fan_mount.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/stl/lgx_ace_fan_support.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ace_mosquito/stl/lgx_ace_mount_plate.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_extruder/lgx_ff_bltouch_adxl345.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_extruder/lgx_ff_fan_shroud.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_extruder/lgx_ff_mount.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_extruder/lgx_ff_mount_with_pinda.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_extruder/lgx_ff_pinda.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_base.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_cover.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_duct.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/lgx_mosquito_fan_support.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/lgx_mosquito_extruder/ptfe_cutter_tool_14.3mm.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_base.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_fan_duct.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_fan_support.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_front.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_idler.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_mmu2s_fs_cover.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_mmu2s_fs_lever.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/extruder/sfp_extruder/sfp_extruder_plastic_plate.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/frame/cable_lock.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/frame/end_cap_x6.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/frame/rubber_feet_x4.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/frame/wiring_cable_lock.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/idler/idler_holder_back_spacer_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/idler/idler_holder_front_spacer_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/idler/idler_holder_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/hrp_300_24/hrp_300_24_box.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/hrp_300_24/hrp_300_24_door.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/hrp_300_24/hrp_300_24_top_mount.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/meanwell_hrp_300_24_box/step/hrp_300_24_box.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/meanwell_hrp_300_24_box/stl/hrp_300_24_box.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/meanwell_hrp_300_24_box/stl/hrp_300_24_box_door.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/meanwell_hrp_300_24_box/stl/hrp_300_24_box_top_mount.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/prusa_delta_psu_box/step/prusa_delta_psu_box.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/prusa_delta_psu_box/stl/prusa_delta_psu_box.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/prusa_delta_psu_box/stl/prusa_delta_psu_door.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/psu/prusa_delta_psu_box/stl/prusa_delta_psu_top_mount_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x-axis/lead_screw_nut_holder_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x-axis/x-axis_motor_cover.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/y-axis/heated_bed_cable_cover_adxl_345.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/y-axis/heated_bed_cable_cover_clip_adxl_345.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/y-axis/y-axis_motor_cover.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/y-axis/y-belt_holder.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/z-axis/z-motor_mount_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/z-axis/z_lead_screw_cap_x2.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/render.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,15 +265,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/narasak.man/Documents/WebstormProjects/parrot_3d",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/narasak.man/Documents/WebstormProjects/parrot_3d&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/printed_parts/extruder/lgx_ff_extruder" />
@@ -70,11 +283,11 @@
       <recent name="$PROJECT_DIR$/printed_parts/frame" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/printed_parts" />
       <recent name="$PROJECT_DIR$/optional_printed_parts/bowden_guide/stl" />
       <recent name="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
       <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder/SFP" />
-      <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -194,6 +407,7 @@
       <workItem from="1654326063197" duration="53000" />
       <workItem from="1654326141441" duration="182000" />
       <workItem from="1655468463012" duration="82000" />
+      <workItem from="1673671195226" duration="2005000" />
     </task>
     <task id="LOCAL-00053" summary="Update README.md">
       <created>1602823417202</created>
