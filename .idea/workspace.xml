@@ -27,11 +27,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9650dd5f-b426-4502-bc15-951ce570f7ea" name="Default Changelist" comment="Initial Parrot 3D MK II Release">
-      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-lgx-ace-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-lgx-ace-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-lgx-ace-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-lgx-ace.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/parrot3d-mkII-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/2gt-20t-b5-idler-holder.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/x-belt-holder-20t-hiwin.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/step/palette-2-adapter.step" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/pallete-2/step/palette-2-adapter.step" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/print_head/lgx-ace/stl/palette-2-adapter.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/pallete-2/stl/palette-2-adapter.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x_axis/step/2gt-20t-idler-holder.step" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/prusa/2gt-20t-b3-idler-holder.step" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x_axis/step/x-axis-steper-motor-spacer.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x_axis/step/x-belt-holder.step" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/prusa/x-belt-holder.step" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x_axis/stl/2gt-20t-idler-holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/prusa/2gt-20t-b3-idler-holder.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x_axis/stl/cable-management-top-cover.stl" beforeDir="false" afterPath="$PROJECT_DIR$/printed_parts/x_axis/stl/cable-management-top-cover.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x_axis/stl/x-axis-steper-motor-spacer.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printed_parts/x_axis/stl/x-belt-holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/optional_printed_parts/prusa/x-belt-holder.stl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +84,11 @@
       <recent name="$PROJECT_DIR$/printed_parts/frame" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/printed_parts" />
-      <recent name="$PROJECT_DIR$/optional_printed_parts/bowden_guide/stl" />
-      <recent name="$PROJECT_DIR$/optional_printed_parts/duet_3_box/STEP" />
-      <recent name="$PROJECT_DIR$/cnc_parts/STEP/Y-Axis" />
-      <recent name="$PROJECT_DIR$/cnc_parts/STEP/Extruder/SFP" />
+      <recent name="$PROJECT_DIR$/printed_parts/x_axis/stl" />
+      <recent name="$PROJECT_DIR$/optional_printed_parts/prusa" />
+      <recent name="$PROJECT_DIR$/optional_printed_parts/pallete-2/stl" />
+      <recent name="$PROJECT_DIR$/optional_printed_parts/pallete-2/step" />
+      <recent name="$PROJECT_DIR$/optional_printed_parts/pallete-2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -200,14 +208,8 @@
       <workItem from="1654326063197" duration="53000" />
       <workItem from="1654326141441" duration="182000" />
       <workItem from="1655468463012" duration="82000" />
-      <workItem from="1673671195226" duration="2631000" />
-    </task>
-    <task id="LOCAL-00055" summary="Add prusa delta psu box">
-      <created>1602987798876</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1602987798877</updated>
+      <workItem from="1673671195226" duration="2789000" />
+      <workItem from="1674868640354" duration="364000" />
     </task>
     <task id="LOCAL-00056" summary="Add prusa delta psu box">
       <created>1602988988115</created>
@@ -545,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673675848647</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Initial Parrot 3D MK II Release">
+      <created>1673676449536</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1673676449536</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
